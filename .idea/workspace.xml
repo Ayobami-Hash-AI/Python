@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e1bf2b2-b5e6-4286-8e55-c1046b62252a" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Ayobami_Portfolio/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ayobami_Portfolio/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ayobami_Portfolio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ayobami_Portfolio/portfolio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arp_storm_detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/port_scanner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Assignment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyCharmMiscProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/StartRatingLab/star-rating.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -64,37 +55,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.AddRecords.executor": "Run",
-    "Python.AyobamiFunction.executor": "Run",
-    "Python.AyobamiSportsTeams.executor": "Run",
-    "Python.Ayobami_exceptions.executor": "Run",
-    "Python.Country_scraper.executor": "Run",
-    "Python.Cryptography.executor": "Run",
-    "Python.DisplayRecords.executor": "Run",
-    "Python.ModifyQuantity.executor": "Run",
-    "Python.RPSGame.executor": "Run",
-    "Python.Scapy_TCP.executor": "Run",
-    "Python.arp_storm_detector.executor": "Run",
-    "Python.datamanipulate.executor": "Run",
-    "Python.port_scanner.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Ayobami",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/odula/iCloudDrive/Cybersecurity/Python/PyCharmMiscProject",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.AddRecords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AyobamiFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AyobamiSportsTeams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ayobami_exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Country_scraper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cryptography.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DisplayRecords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModifyQuantity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RPSGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scapy_TCP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arp_storm_detector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datamanipulate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.port_scanner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Ayobami&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/odula/iCloudDrive/Cybersecurity/Python/PyCharmMiscProject&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\odula\PycharmProjects\PythonProject" />
@@ -125,7 +116,8 @@
       <workItem from="1778384720131" duration="1650000" />
       <workItem from="1778459679690" duration="4058000" />
       <workItem from="1778463802081" duration="1184000" />
-      <workItem from="1779115941918" duration="6887000" />
+      <workItem from="1779115941918" duration="7472000" />
+      <workItem from="1779143680502" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -183,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1778461032914</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1779124555901</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779124555901</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1779124585419</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1779124585420</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
