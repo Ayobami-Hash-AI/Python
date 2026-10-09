@@ -1,65 +1,50 @@
-# Python Learning and Security Automation
+# Python Projects | Programming, Data & Security Automation
 
-A collection of Python exercises, small applications, datasets, and cybersecurity-focused scripts developed during my technical training.
+**Ayobami Odulaja** · Python fundamentals · Practical scripts · Network-security experiments
 
-## Repository Guide
+This repository contains coursework and independent learning exercises spanning programming fundamentals, file/data processing, small applications, and introductory security tooling. The emphasis is on readable code, problem-solving, and steadily improving engineering practices.
 
-### Cybersecurity Tools
+[Cybersecurity Portfolio](https://github.com/Ayobami-Hash-AI/Cybersecurity-Portfolio-Ayobami-Odulaja) · [Linux Projects](https://github.com/Ayobami-Hash-AI/Linux-Administration-and-Security) · [Development Journal](https://github.com/Ayobami-Hash-AI/Project-Letter) · [LinkedIn](https://www.linkedin.com/in/ayobami-o-077004152)
 
-- [ARP Storm Detector](./arp_storm_detector.py) — analyzes ARP activity for abnormal traffic patterns
-- [Port Scanner](./port_scanner.py) — introductory network-service discovery exercise
-- [ARP PCAP Sample](./arp.pcap) — packet-capture data used for network analysis
+## Featured security exercises
 
-> These tools are for authorized educational and laboratory use only.
+| Project | Source | Focus |
+|---|---|---|
+| ARP Storm Detector | [`arp_storm_detector.py`](arp_storm_detector.py) | Network traffic and ARP anomaly-analysis exercise |
+| Port Scanner | [`port_scanner.py`](port_scanner.py) | Introductory TCP/service-discovery scripting |
+| PCAP sample | [`arp.pcap`](arp.pcap) | Sample network-capture artifact |
 
-### Python Fundamentals
+These are **learning projects**, not production-ready security products. Review the source before running; scan only systems for which you have authorization.
 
-- [Functions](./AyobamiFunction.py)
-- [Exception Handling](./Ayobami_exceptions.py)
-- [Rock–Paper–Scissors Game](./RPSGame.py)
-- [Sports Teams Exercise](./AyobamiSportsTeams.py)
+## Programming exercises
 
-### Data and File Handling
+| Area | Examples |
+|---|---|
+| Functions and exceptions | [Functions](AyobamiFunction.py) · [Exception handling](Ayobami_exceptions.py) |
+| Logic and interactive programs | [Rock–Paper–Scissors](RPSGame.py) · [Sports teams](AyobamiSportsTeams.py) |
+| Data and file handling | [Country scraper](Country_scraper.py) · [Data manipulation](datamanipulate.py) |
+| Record management | [Add](AddRecords.py) · [Display](DisplayRecords.py) · [Modify quantity](ModifyQuantity.py) |
+| Web exercises | [Personal portfolio](Ayobami_Portfolio/) · [Star rating](StartRatingLab/) |
 
-- [Country Scraper](./Country_scraper.py)
-- [Data Manipulation](./datamanipulate.py)
-- [Add Records](./AddRecords.py)
-- [Display Records](./DisplayRecords.py)
-- [Modify Quantity](./ModifyQuantity.py)
-- Supporting CSV and text datasets are retained for reproducibility.
+CSV/text datasets and archived coursework are retained for context and reproducibility.
 
-### Web Projects
+## Running a script
 
-- [Personal Portfolio](./Ayobami_Portfolio/)
-- [Star Rating Lab](./StartRatingLab/)
-
-### Supporting Material
-
-PowerShell documentation and compressed assignment packages are retained as learning artifacts.
-
-## Suggested Local Structure
-
-The current files remain in their original locations to preserve history existing references. New work will follow this structure:
-
-```text
-projects/
-  cybersecurity/
-  data-processing/
-  games/
-  web/
-data/
-docs/
-tests/
-```
-
-## Running a Script
+Use a dedicated Python environment when appropriate and inspect the script's imports and required inputs before running it:
 
 ```bash
-python script_name.py
+python --version
+python path/to/script.py
 ```
 
-Review a script before execution and use only systems and networks you own or are explicitly authorized to test.
+Dependencies, CLI arguments, and sample outputs vary by project; inspect the source before execution. No universal test suite or production readiness is claimed.
 
-## Development Standards
+## Engineering standards for new work
 
-Future updates will use descriptive snake_case filenames, focused project folders, dependency documentation, input validation, clear comments, and tests where appropriate.
+New projects will aim to include a focused README, clear usage instructions, input validation, meaningful error handling, sample output, and tests where practical. Existing filenames and archive locations remain unchanged to preserve history.
+
+## Next direction
+
+Python automation for parsing logs, extracting indicators, analyzing network evidence, and assisting incident-response workflows. Healthcare security is a future application, **not a limitation** on the industries these skills support.
+
+> Educational use only. Respect privacy, licenses, and authorized testing boundaries.
