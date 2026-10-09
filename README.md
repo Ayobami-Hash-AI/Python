@@ -10,8 +10,8 @@ This repository contains coursework and independent learning exercises spanning 
 
 | Project | Source | Focus |
 |---|---|---|
-| ARP Storm Detector | [`arp_storm_detector.py`](arp_storm_detector.py) | Network traffic and ARP anomaly-analysis exercise |
-| Port Scanner | [`port_scanner.py`](port_scanner.py) | Introductory TCP/service-discovery scripting |
+| ARP Storm Detector | [Source](arp_storm_detector.py) · [Technical write-up](docs/arp-storm-detector.md) | ARP request-rate analysis and detection limitations |
+| Port Scanner | [Source](port_scanner.py) · [Technical write-up](docs/port-scanner.md) | TCP connection checks and input-validation considerations |
 | PCAP sample | [`arp.pcap`](arp.pcap) | Sample network-capture artifact |
 
 These are **learning projects**, not production-ready security products. Review the source before running; scan only systems for which you have authorization.
